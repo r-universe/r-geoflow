@@ -1,0 +1,10 @@
+{
+  "id": 89412857,
+  "created_at": "2025-10-09T19:26:21.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["geoflow"]
+}
