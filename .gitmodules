@@ -5,3 +5,11 @@
 [submodule "geoflow"]
 	path = geoflow
 	url = https://github.com/r-geoflow/geoflow
+[submodule "geonapi"]
+	path = geonapi
+	url = https://github.com/eblondel/geonapi
+	registered = false
+[submodule "geosapi"]
+	path = geosapi
+	url = https://github.com/eblondel/geosapi
+	registered = false
