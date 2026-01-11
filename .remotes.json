@@ -1,11 +1,5 @@
 [
   {
-    "package": "geonapi",
-    "url": "https://github.com/eblondel/geonapi",
-    "via": ["geoflow"],
-    "from": "geoflow"
-  },
-  {
     "package": "geosapi",
     "url": "https://github.com/eblondel/geosapi",
     "via": ["geoflow"],
