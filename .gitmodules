@@ -5,7 +5,3 @@
 [submodule "geoflow"]
 	path = geoflow
 	url = https://github.com/r-geoflow/geoflow
-[submodule "geosapi"]
-	path = geosapi
-	url = https://github.com/eblondel/geosapi
-	registered = false

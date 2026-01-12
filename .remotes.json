@@ -1,8 +1,0 @@
-[
-  {
-    "package": "geosapi",
-    "url": "https://github.com/eblondel/geosapi",
-    "via": ["geoflow"],
-    "from": "geoflow"
-  }
-]
